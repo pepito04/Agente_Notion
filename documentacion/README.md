@@ -17,5 +17,5 @@ Pero tambien hemos añadido desde OpenRouter algunos gratuitos para que no tenga
 - nex-agi/deepseek-v3.1-nex-n1:free'
 
 ## Diagrama Conversacional
-![Texto alternativo](Diagrama conversacional.png)
 <img src="Diagrama conversacional.png" alt="Descripción" width="300">
+
