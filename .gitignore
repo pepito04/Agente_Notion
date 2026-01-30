@@ -1,0 +1,50 @@
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+ANALISIS_RESUMEN.txt
+ANALISIS_VARIABLES_ENTORNO.MD
+
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos del proyecto
+rag_db/
+documentos_rag/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node modules (si se usa Docker)
+node_modules/
+npm-debug.log
+
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+*.tmp
+*.temp

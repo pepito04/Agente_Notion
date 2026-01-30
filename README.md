@@ -7,4 +7,4 @@
 
 ✅En el **archivo requirements.txt** se encuentra todas las dependencias necesarias para llevar a cabo este proyecto.
 
-### ‼️ ¡¡ATENCIÓN!! Recuerda que si vas a utilizar este proyecto recomiendo encarecidamente crear una carpeta donde guardar los archivos subidos de forma manual llamada **documentos_rag** y editar la ruta del archivo **ragManager.py**
+### ‼️ ¡¡ATENCIÓN!! Recuerda que si vas a utilizar este proyecto recomiendo encarecidamente leer antes los archivos **ENVIROMENT_SETUP.md** donde se detalla lo necesario para poder ejecutar este proyecto y **QUICKSTART.md** que es una guia paso a paso para configurar todo lo necesario sobre este proyecto
