@@ -4,6 +4,8 @@
 .env.*.local
 ANALISIS_RESUMEN.txt
 ANALISIS_VARIABLES_ENTORNO.MD
+INSTALACION_COMPLETA.txt
+app.py
 
 # Pycache
 __pycache__/
